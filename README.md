@@ -2,7 +2,7 @@
 This repo is for Bonus project 2 of Tool in Data Science
 # GyaanSetu - Advanced AI Assistant
 
-![GyaanSetu Banner](https://i.imgur.com/your-banner-image.png) **GyaanSetu** is a sophisticated, feature-rich AI assistant designed to provide a seamless and interactive user experience. With multi-tool capabilities, voice interaction, and support for various LLM providers, GyaanSetu is your all-in-one solution for AI-powered assistance.
+**GyaanSetu** is a sophisticated, feature-rich AI assistant designed to provide a seamless and interactive user experience. With multi-tool capabilities, voice interaction, and support for various LLM providers, GyaanSetu is your all-in-one solution for AI-powered assistance.
 
 This project is a submission for "Bonus project 2 of Tool in Data Science".
 
@@ -37,9 +37,7 @@ GyaanSetu comes packed with a wide array of features to enhance your productivit
 
 | Light Mode | Dark Mode |
 | :---: | :---: |
-| ![Light Mode Screenshot](https://i.imgur.com/your-light-mode-screenshot.png) | ![Dark Mode Screenshot](https://i.imgur.com/your-dark-mode-screenshot.png) |
-| *Settings Modal* | *Conversation View* |
-| ![Settings Screenshot](https://i.imgur.com/your-settings-screenshot.png) | ![Conversation Screenshot](https://i.imgur.com/your-conversation-screenshot.png) |
+
 
 ## 🛠️ Tech Stack
 
